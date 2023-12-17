@@ -1,0 +1,3 @@
+[dependencies]
+walkdir = "2.3"
+crypto = "0.5"
